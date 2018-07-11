@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'EseninscriptTwo';
+    src: url('fonts/EseninscriptTwo.eot');
+    src: url('fonts/EseninscriptTwo.eot') format('embedded-opentype'),
+         url('fonts/EseninscriptTwo.woff2') format('woff2'),
+         url('fonts/EseninscriptTwo.woff') format('woff'),
+         url('fonts/EseninscriptTwo.ttf') format('truetype'),
+         url('fonts/EseninscriptTwo.svg#EseninscriptTwo') format('svg');
+}

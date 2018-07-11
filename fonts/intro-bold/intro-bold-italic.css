@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'introbolditalic';
+    src: url('fonts/introbolditalic.eot');
+    src: url('fonts/introbolditalic.eot') format('embedded-opentype'),
+         url('fonts/introbolditalic.woff2') format('woff2'),
+         url('fonts/introbolditalic.woff') format('woff'),
+         url('fonts/introbolditalic.ttf') format('truetype'),
+         url('fonts/introbolditalic.svg#introbolditalic') format('svg');
+}
